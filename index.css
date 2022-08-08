@@ -47,7 +47,7 @@ body{
     font-size: 5em;
     background: -webkit-linear-gradient(90deg,#6556d5,#1a6d8c);
     -webkit-text-fill-color: transparent;
-    -webkit-background-clip: text; 
+    -webkit-background-clip: text;
 }
 .hour{
     background: -webkit-linear-gradient(90deg,#634dff,#5fd4ff);
